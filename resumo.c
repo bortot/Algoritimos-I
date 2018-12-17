@@ -1,5 +1,4 @@
-/* Comandos a serem reconhecidos:
-	este codigo tem como objetivo gerar um resumo
+/* 	este codigo tem como objetivo gerar um resumo
 	da entrada de dados do trabalho de alg I
 */
 

@@ -1,6 +1,6 @@
 # Algoritimos I
 
-*Trabalho da disciplina de Algorítimos I - UTFPR-PB*
+*Trabalho da disciplina de Algorítimos e Estrutuda de Dados I*
 
 O trabalho basicamente consiste na ordenação, armazenamento, manipulação e busca de dados.
 

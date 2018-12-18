@@ -1,6 +1,4 @@
-# Algoritimos I
-
-*Trabalho da disciplina de Algorítimos e Estrutuda de Dados I*
+# *Trabalho da disciplina de Algorítimos e Estrutura de Dados I*
 
 O trabalho basicamente consiste na ordenação, armazenamento, manipulação e busca de dados.
 
